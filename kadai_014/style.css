@@ -1,0 +1,31 @@
+/* style.css */
+
+/* フォントとフォントサイズ */
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+  font-size: 20px;
+  text-align: center; /* 中央寄せ */
+}
+
+h1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 40px;
+  letter-spacing: 1.2em;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  border-bottom: 3px solid rgb(115, 115, 114);
+}
+
+/* クラス */
+.skyblue {
+  color:skyblue/* スカイブルー */
+}
+
+.pink {
+  color: rgb(255, 192, 203); /* ピンク */
+}
+
+
+/* 太字 */
+p.bold {
+  font-weight: bold;
+}
