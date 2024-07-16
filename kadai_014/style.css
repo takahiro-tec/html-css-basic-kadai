@@ -1,7 +1,7 @@
 /* style.css */
 
 /* フォントとフォントサイズ */
-body {
+html {
   font-family: "Arial", "Meiryo", sans-serif;
   font-size: 20px;
   text-align: center; /* 中央寄せ */
